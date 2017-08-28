@@ -1,0 +1,406 @@
+
+/* - ++resource++fumbaro.wallpapertheme.stylesheets/main.css - */
+@media screen {
+/* http://wallpaper.fumbaro.org/portal_css/++resource++fumbaro.wallpapertheme.stylesheets/main.css?original=1 */
+/* */
+/* */
+body{
+background-image: url("bg_blue.gif");
+background-repeat: repeat-x;
+background-color: white;
+}
+/* */
+.textsize-button:hover,
+#fumbaro-buttons a img:hover,
+.news-box:hover,
+div.box:hover,
+a img.to_page_top:hover,
+#portal-columns a:hover,
+#project-footer-band a:hover,
+#global-footer a:hover
+{
+opacity:0.7;
+}
+#content a:hover,
+dl.portlet a:hover {
+color:#205C90 !important;
+}
+#portal-footer a:hover {
+color:white !important;
+}
+/* */
+#portal-top{
+background-image: url("base_top.png");
+height: 150px;
+margin-top:20px;
+}
+#portal-header{
+margin-left: 10px;
+}
+#top-line{
+margin-top:25px;
+}
+#portal-logo{
+margin-top:10px;
+margin-bottom:10px;
+}
+#main-logo{
+margin-left:30px;
+}
+#portal-searchbox{
+margin: 10px 10px;
+}
+#textsize-buttons{
+float:right;
+}
+#fumbaro-buttons{
+margin-top:30px;
+margin-left: -300px;
+float:right;
+}
+#fumbaro-buttons a.to-fumbaro-top{
+vertical-align: 3px;
+}
+img.separator{
+margin: 0 7px;
+}
+/* */
+#portal-columns {
+background-image: url("base_middle.png");
+padding-top:20px;
+}
+#visual-portal-wrapper {
+background-image: none;
+text-align: left;
+width: 1024px;
+}
+#content .documentDescription, #content #description{
+font-size: 0.9em;
+padding: 5px;
+}
+/* */
+.template-folder_summary_with_image_view .item_image {
+float: left;
+max-width: 133px;
+}
+.template-folder_summary_with_image_view .tileFooter {
+float: right;
+}
+.template-folder_summary_with_image_view .tileItem {
+margin-bottom: 10px;
+}
+.template-folder_summary_with_image_view .tileHeadline,
+.template-folder_summary_with_image_view .tileBody
+{
+margin-left: 145px;
+}
+.template-folder_summary_with_image_view .tileBody{
+margin-bottom:0 !important;
+}
+/* */
+div.information .info-date{
+margin-top:-2px;
+}
+.news-box{
+font-size:0.8em;
+margin-right: 25px;
+padding:10px 0;
+width:300px;
+}
+.news-icon{
+float:left;
+}
+.news-text{
+float:left;
+width:220px;
+margin-left: 10px;
+}
+.news-box .separator{
+clear:both;
+}
+.news-box .info-box-title{
+font-size:1em;
+}
+.news-box .info-date{
+font-size:0.8em;
+color:gray;
+margin-top:-5px;
+}
+.news-box .info-box-summary{
+font-size: 0.9em;
+}
+.news-box .info-box-description{
+font-size: 0.85em;
+margin-top: 5px;
+}
+/* */
+.boxes{
+float:left;
+margin-left:-40px;
+padding-left:40px;
+background-image:url("line_h_s.gif");
+background-repeat: repeat-y;
+}
+/* */
+#contents-footer {
+background-image: url("base_middle.png");
+}
+#contents-footer-blank-top {
+height: 20px;
+}
+#contents-footer img.to_page_top{
+margin-right:30px;
+float:right;
+margin-top:10px;
+}
+#contents-footer-blank-bottom {
+height: 25px;
+}
+/* */
+.band-border{
+height:15px;
+border-top:solid 1px #7D7D7D;
+}
+#project-footer-band {
+background-image: url("base_middle.png");
+padding: 10px 30px 0px 38px;
+color: #7D7D7D;
+font-size: 0.8em;
+}
+#project-footer-band a{
+color:#7D7D7D;
+}
+#project-footer-band .copyright{
+margin-left:3px;
+font-size:0.9em;
+}
+#project-footer-band div.links{
+float:right;
+}
+#project-footer-band .separator{
+margin:0 3px;
+}
+/* */
+#contents-footer-bottom {
+background-image: url("base_bottom.png");
+height: 40px;
+margin-bottom:20px;
+}
+/* */
+#global-footer{
+background-color:#23559D;
+height:33px;
+padding-top:15px;
+margin-bottom:10px;
+}
+#portal-siteactions-container{
+width:1000px;
+}
+#portal-siteactions{
+background-color:#23559D;
+padding-bottom:0px;
+padding-right:0px;
+}
+#portal-siteactions a{
+color:white;
+}
+/* */
+/* */
+body{
+font:100% "メイリオ","Meiryo","ＭＳ Ｐゴシック","Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3",sans-serif;
+}
+#content a:link, dl.portlet a:link , dl.portlet a:visited {
+border-bottom: none;
+}
+.pj-text{
+font-size:1.6em;
+}
+#content h2{
+border-bottom:solid #3F3247 1px ;
+color:black !important;
+}
+#content h3{
+border-bottom:dashed #3F3247 1px ;
+}
+a.wpPhoto img{
+cursor:pointer;
+background: none repeat scroll 0 0 #FFFFFF;
+border: 1px solid #CCCCCC;
+margin: 3px;
+padding: 5px;
+}
+.attention{
+color:red;
+}
+/* */
+#portal-searchbox{
+width:250px;
+}
+#textsize-buttons img{
+float: left;
+}
+#textsize-buttons-label{
+margin-top:4px;
+}
+.textsize-button{
+float: left;
+width: 20px;
+height: 20px;
+margin-left:4px;
+}
+#textsize-button-l{
+background: url("l_off.gif");
+}
+#textsize-button-m{
+background: url("m_on.gif");
+}
+#textsize-button-s{
+background: url("s_off.gif");
+}
+.largeText #textsize-button-l{
+background: url("l_on.gif");
+}
+.largeText #textsize-button-m,.smallText #textsize-button-m{
+background: url("m_off.gif");
+}
+.smallText #textsize-button-s{
+background: url("s_on.gif");
+}
+form[name=searchform]{
+display:none;
+}
+/* */
+#portal-breadcrumbs{
+border-bottom:solid #3F3247 2px;
+padding-bottom:10px;
+}
+#portal-breadcrumbs a,#portal-breadcrumbs span{
+padding-right:3px;
+}
+#portal-breadcrumbs span{
+padding-top:3px;
+}
+#breadcrumbs-you-are-here{
+display:none;
+}
+#breadcrumbs-home{
+background-image:url("home.png");
+background-repeat: no-repeat;
+}
+#breadcrumbs-1{
+background-image:url("home.png");
+background-repeat: no-repeat;
+}
+#breadcrumbs-home a,#breadcrumbs-1 a,#breadcrumbs-1 #breadcrumbs-current{
+padding-left:18px;
+}
+/* */
+.portletStaticText .portletHeader{
+display:none;
+}
+#portal-column-one .portletWrapper{
+margin-left:20px;
+}
+dl.portlet .navTree{
+margin-left:30px;
+}
+dl.portlet .navTreeLevel0{
+border-top:solid #3F3247 1px !important;
+}
+dl.portlet ul.navTreeLevel0 > .navTreeItem{
+padding:18px 1em;
+}
+dl.portlet .navTreeItem{
+border-bottom:solid #3F3247 1px !important;
+}
+dl.portlet .navTreeItem img{
+display:none;
+}
+dl.portlet ul.navTree .navTreeCurrentItem{
+background-color:transparent;
+border-left-color:transparent;
+}
+/* */
+#portal-siteactions{
+text-align:right;
+font-size:0.75em;
+}
+#portal-siteactions a:hover {
+color:white !important;
+}
+/* */
+.headline-area{
+margin-bottom: 10px;
+}
+a.headline-title{
+margin-left: 10px;
+}
+.fb-comments{
+margin-top:40px;
+}
+.share-link{
+text-align:right;
+margin-top:40px;
+}
+.fb-like{
+vertical-align: top;
+}
+
+}
+
+
+/* - ++resource++fourdigits.portlet.twitter.stylesheets/twitterportlet.css - */
+@media screen {
+/* http://wallpaper.fumbaro.org/portal_css/++resource++fourdigits.portlet.twitter.stylesheets/twitterportlet.css?original=1 */
+.portletTwitterPortlet .userPicture {
+float:left;
+margin-right: 4px;
+}
+.portletTwitterPortlet .userName,
+.portletTwitterPortlet .userLocation {
+font-size: 120%;
+font-weight: bold;
+}
+.portletTwitterPortlet .userDescription {
+font-style: italic;
+}
+.portletTwitterPortlet .tweetPicture {
+float:left;
+margin-right: 4px;
+}
+
+}
+
+
+/* - ++resource++fourdigits.portlet.twitter.stylesheets/jquery.tweet.css - */
+@media screen {
+/* http://wallpaper.fumbaro.org/portal_css/++resource++fourdigits.portlet.twitter.stylesheets/jquery.tweet.css?original=1 */
+.tweet,
+.query {
+}
+.tweet_list {
+list-style: none;
+margin: 0;
+padding: 0;
+overflow-y: hidden;
+}
+.tweet_list li {
+overflow-y: auto;
+overflow-x: hidden;
+padding: 0.5em;
+list-style-type: none;
+}
+.tweet_list li a {
+/* */
+}
+.tweet_list .tweet_even {
+/* */
+}
+.tweet_list .tweet_avatar {
+padding-right: .5em; float: left;
+}
+.tweet_list .tweet_avatar img {
+vertical-align: middle;
+}
+}
+

@@ -1,0 +1,13 @@
+http://wallpaper.fumbaro.org/busshi	index
+http://wallpaper.fumbaro.org/busshi/outline/archive-overview	archive-overview
+http://wallpaper.fumbaro.org/busshi/outline	outline
+http://wallpaper.fumbaro.org/busshi/outline/archive-system	archive-system
+http://wallpaper.fumbaro.org/busshi/outline/amazon-fukko	amazon-fukko
+http://wallpaper.fumbaro.org/busshi/outline/archive-proposal	archive-proposal
+http://wallpaper.fumbaro.org/busshi/outline/archive-archives	archive-archives
+http://wallpaper.fumbaro.org/busshi/index	default
+http://wallpaper.fumbaro.org/busshi/voice	voice
+http://wallpaper.fumbaro.org/busshi/outline/	default_001
+http://wallpaper.fumbaro.org/busshi/outline/archive-collection/	default_002
+http://wallpaper.fumbaro.org/busshi/amazon-fukko	amazon-fukko
+http://wallpaper.fumbaro.org/busshi/animal/shelterlist	shelterlist
