@@ -15,7 +15,8 @@ img { vertical-align: text-bottom; }
 iframe { border-width: 0; border-style:none; }
 /* */
 /*Original*/
-div.share-link {visibility:hidden;}
+div.share-link,
+div#fb-root { visibility:hidden!important; }
 /* */
 body {
 font: 100% Arial, FreeSans, sans-serif;
