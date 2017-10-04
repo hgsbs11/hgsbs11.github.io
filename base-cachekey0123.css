@@ -14,6 +14,8 @@ table { border-spacing: 0; }
 img { vertical-align: text-bottom; }
 iframe { border-width: 0; border-style:none; }
 /* */
+/*Original*/
+div.share-link {visibility:hidden;}
 /* */
 body {
 font: 100% Arial, FreeSans, sans-serif;
@@ -2186,5 +2188,3 @@ width: 16em;
 }
 
 }
-/*Original*/
-.share-link{visibility:hidden}
