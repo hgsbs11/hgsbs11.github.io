@@ -1,7 +1,0 @@
-http://wallpaper.fumbaro.org/voice	index
-http://wallpaper.fumbaro.org/voice/001katakuri2	001katakuri2
-http://wallpaper.fumbaro.org/voice/001katakuri	001katakuri
-http://wallpaper.fumbaro.org/voice/003nasuno1	003nasuno1
-http://wallpaper.fumbaro.org/voice/001katakuri3	001katakuri3
-http://wallpaper.fumbaro.org/voice/002shinsuishiki	002shinsuishiki
-http://wallpaper.fumbaro.org/voice/index/	default
